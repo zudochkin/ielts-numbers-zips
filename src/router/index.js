@@ -7,7 +7,7 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/:type',
+      path: '/:type?',
       name: 'Test',
       component: Test
     }

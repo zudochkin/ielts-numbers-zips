@@ -1,21 +1,8 @@
 # ielts-numbers
 
-> A Vue.js project
+Simple project on Vue.js to help you with IELTS listening section (only numbers & zip codes).
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* press the Start button
+* listen to the synthesized voice
+* type right answer into the text box and press enter
+* repeat
