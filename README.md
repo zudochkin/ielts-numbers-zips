@@ -6,3 +6,5 @@ Simple project on Vue.js to help you with IELTS listening section (only numbers 
 * listen to the synthesized voice
 * type right answer into the text box and press enter
 * repeat
+
+![IELTS vue.js](./images/ielts-numbers.png)
